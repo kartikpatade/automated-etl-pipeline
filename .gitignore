@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+# Local environment parameters and connection configuration
+.env
+.env.local
+.env.*
+secrets.json
+
+# Local Data Cache Files (Never commit raw staging outputs)
+*.csv
+*.xlsx
+*.xls
+*.json_metadata
+
+# Project tracking data / environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / Core System configurations
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
