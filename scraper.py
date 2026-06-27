@@ -15,7 +15,7 @@ from io import StringIO
 import json
 import os
 
-# =====================================================================
+# ====================================================================
 # CONFIGURATION & ENVIRONMENT ABSTRACTION
 # =====================================================================
 # Target endpoints are pulled via environment variables or set to sandbox domains 
